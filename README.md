@@ -1,6 +1,8 @@
 # Project:
 Case Study: A Burglar Alarm System
+
 Introduction: The design and implementation of a Burglar Alarm System is essential for home and property security. This system detects unauthorized access to a protected area and triggers an alarm to alert the property owner or a security service. In this case study, we'll outline the hardware and software components of a typical burglar alarm system.
+
 Hardware Block Diagram:
 A typical hardware block diagram for a Burglar Alarm System consists of various components, including sensors, a control unit, and an alarm notification system. Here's a simplified representation:
 1.	Sensors:
@@ -17,6 +19,7 @@ A typical hardware block diagram for a Burglar Alarm System consists of various 
 •	External Siren: A loud alarm sound to alert neighbors or passersby.
 •	Notification to Owner: Alerts the property owner via SMS, email, or mobile app.
 •	Notification to Security Service: If subscribed to a security service, they will be alerted.
+
 Software Flow Diagram:
 The software flow in a Burglar Alarm System is responsible for monitoring sensors, handling user inputs, and triggering alarms. Here's a simplified software flow diagram:
  
