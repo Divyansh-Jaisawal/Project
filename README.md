@@ -44,5 +44,6 @@ The software flow in a Burglar Alarm System is responsible for monitoring sensor
 6.	Communication:
 •	The communication module sends alerts to external parties (owner and security service).
 •	The system may also provide remote control via a mobile app.
+
 This software flow diagram illustrates the core functionality of the Burglar Alarm System, focusing on sensor monitoring, event processing, and alarm triggering. The system aims to secure the premises, notify the owner, and deter intruders when unauthorized access is detected.
 
